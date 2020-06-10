@@ -7,4 +7,5 @@ Funcionalidade: Avaliar app android
     Dado acesso "Avalie o App" no menu 'Minha APP'
     Quando avalio o APP como 'Incrível'
     E acesso o link para avaliar na Play Store
-    Então sou direcionado para avaliar o APP na loja
+    Então sou direcionado para avaliar o APP na loja\
+
